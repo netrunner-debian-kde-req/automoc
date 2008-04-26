@@ -1,4 +1,4 @@
-automoc (0.0.0.1-1) unstable; urgency=low
+automoc (0.0.svn801285-1) unstable; urgency=low
 
   * Automoc split from kdelibs to be used in kdesupport.
     Based on r801285
