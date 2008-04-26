@@ -1,0 +1,7 @@
+automoc (0.0.0.1-1) unstable; urgency=low
+
+  * Automoc split from kdelibs to be used in kdesupport.
+    Based on r801285
+
+ -- Sune Vuorela <debian@pusling.com>  Sat, 26 Apr 2008 23:21:42 +0200
+

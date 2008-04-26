@@ -1,0 +1,16 @@
+Source: automoc
+Section: devel
+Priority: extra
+Maintainer: Sune Vuorela <debian@pusling.com>
+Build-Depends: debhelper (>= 5), libqt4-dev, cmake
+Standards-Version: 3.7.3
+
+Package: automoc
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqt4-dev
+Description: automatic moc for Qt4 packages
+ this package contains the automoc4 binary which is used to run moc on the right 
+ binaries in a qt4 or kde4 application.
+ .
+ Moc is the meta object compiler which is a much used tool when using the Qt 
+ toolkit.
