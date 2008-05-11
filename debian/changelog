@@ -1,3 +1,11 @@
+automoc (0.0.svn805317-1~pre1) UNRELEASED; urgency=low
+
+  * New upstream development snapshot:
+    - The latest upstream commit is r805317 by mkretz
+    - Date: Sun, 11 May 2008 10:15:25 -0000
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 11 May 2008 13:15:25 +0300
+
 automoc (0.0.svn801285-1) unstable; urgency=low
 
   * Automoc split from kdelibs to be used in kdesupport.
