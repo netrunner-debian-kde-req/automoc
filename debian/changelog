@@ -1,4 +1,4 @@
-automoc (1.0~svn823713-1) unstable; urgency=low
+automoc (1.0~svn823714-1) unstable; urgency=low
 
   * New upstream snapshot. Fixes segfaults and other stuff.
 
