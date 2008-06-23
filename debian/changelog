@@ -1,3 +1,9 @@
+automoc (1.0~svn823713-1) unstable; urgency=low
+
+  * New upstream snapshot. Fixes segfaults and other stuff.
+
+ -- Sune Vuorela <debian@pusling.com>  Mon, 23 Jun 2008 23:57:31 +0200
+
 automoc (1.0~svn813484-1) unstable; urgency=low
 
   * New upstream snapshot
