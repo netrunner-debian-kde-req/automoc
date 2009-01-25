@@ -1,8 +1,8 @@
-automoc (1.0~svn884363-0r1) UNRELEASED; urgency=low
+automoc (1.0~version-0.9.88-1) experimental; urgency=low
 
-  * New upstream development snapshot.
+  * New upstream release.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 22 Nov 2008 13:46:26 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 25 Jan 2009 19:17:48 +0100
 
 automoc (1.0~svn850570-1) unstable; urgency=low
 
