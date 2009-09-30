@@ -1,3 +1,11 @@
+automoc (1.0~version-0.9.88-2.1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * bumped standard version to 3.8.3 Fixed lintian warnings (homepage-field
+    and dh_prep)
+
+ -- Karl Ferdinand Ebert <kfebert@gmail.com>  Mon, 28 Sep 2009 23:44:00 +0200
+
 automoc (1.0~version-0.9.88-2) unstable; urgency=low
 
   * Upload to unstable. 
