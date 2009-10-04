@@ -1,7 +1,7 @@
-automoc (1.0~version-0.9.88-3) unstable; urgency=low
+automoc (1.0~version-0.9.88-3) UNRELEASED; urgency=low
 
-  * Bumped standard version to 3.8.3 Fixed lintian warnings (homepage-field
-    and dh_prep)
+  * Bumped standard version to 3.8.3:
+    - Fixed lintian warnings (homepage-field and dh_prep).
 
  -- Karl Ferdinand Ebert <kfebert@gmail.com>  Mon, 28 Sep 2009 23:44:00 +0200
 
