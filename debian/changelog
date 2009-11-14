@@ -1,9 +1,15 @@
 automoc (1.0~version-0.9.88-3) UNRELEASED; urgency=low
 
+  +++ Changes by Karl Ferdinand Ebert:
+
   * Bumped standard version to 3.8.3:
     - Fixed lintian warnings (homepage-field and dh_prep).
 
- -- Karl Ferdinand Ebert <kfebert@gmail.com>  Mon, 28 Sep 2009 23:44:00 +0200
+  +++ Changes by Ana Beatriz Guerrero Lopez:
+
+    * Remove myself from Uploaders.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 14 Nov 2009 15:27:52 +0100
 
 automoc (1.0~version-0.9.88-2) unstable; urgency=low
 
