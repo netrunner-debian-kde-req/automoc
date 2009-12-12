@@ -9,6 +9,10 @@ automoc (1.0~version-0.9.88-3) UNRELEASED; urgency=low
 
     * Remove myself from Uploaders.
 
+  +++ Changes by Modestas Vainius:
+
+  * Change my email address to modax@debian.org in Uploaders field.
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 14 Nov 2009 15:27:52 +0100
 
 automoc (1.0~version-0.9.88-2) unstable; urgency=low
