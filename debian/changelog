@@ -1,4 +1,4 @@
-automoc (1.0~version-0.9.88-3) UNRELEASED; urgency=low
+automoc (1.0~version-0.9.88-3) unstable; urgency=high
 
   [ Karl Ferdinand Ebert ]
   * Bumped standard version to 3.8.3:
@@ -9,8 +9,15 @@ automoc (1.0~version-0.9.88-3) UNRELEASED; urgency=low
 
   [ Modestas Vainius ]
   * Change my email address to modax@debian.org in Uploaders field.
+  * Use dh v7 and minimal rules file:
+    - build depend on debhelper 7.3 for cmake support;
+  * Switch package to dpkg-source format 3.0 (quilt).
+  * Replace QProcess with standard POSIX calls. This should work around
+    toolchain problems on hppa and allow kde4libs and other KDE packages to
+    build (patch 01_patch_out_qprocess_bug561203.diff). See bug#561203.
+  * Urgency=high because it should fix kde4libs FTBFS on hppa.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 14 Nov 2009 15:27:52 +0100
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 29 Dec 2009 21:17:54 +0200
 
 automoc (1.0~version-0.9.88-2) unstable; urgency=low
 
