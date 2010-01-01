@@ -1,3 +1,11 @@
+automoc (1.0~version-0.9.88-4) unstable; urgency=low
+
+  * Drop 01_patch_out_qprocess_bug561203.diff patch. It was buggy and didn't
+    serve its purpose well since kde4libs kept FTBFSing anyway, just at
+    qdbuscpp2xml call now (Closes: #563298).
+
+ -- Modestas Vainius <modax@debian.org>  Sat, 02 Jan 2010 01:51:31 +0200
+
 automoc (1.0~version-0.9.88-3) unstable; urgency=high
 
   [ Karl Ferdinand Ebert ]
