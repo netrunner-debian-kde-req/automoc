@@ -6,6 +6,8 @@ Uploaders: Sune Vuorela <debian@pusling.com>, Fathi Boudra <fabo@debian.org>, Mo
 Build-Depends: debhelper (>= 7.3), libqt4-dev, cmake
 Standards-Version: 3.8.3
 Homepage: http://cia.vc/stats/project/kde/automoc
+Vcs-Git: git://git.debian.org/pkg-kde/kde-req/automoc.git
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-req/automoc.git
 
 Package: automoc
 Architecture: any

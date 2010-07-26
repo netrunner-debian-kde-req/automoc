@@ -1,3 +1,9 @@
+automoc (1.0~version-0.9.88-5) UNRELEASED; urgency=low
+
+  * Add Vcs fields to debian/control.
+
+ -- Modestas Vainius <modax@debian.org>  Mon, 26 Jul 2010 23:33:18 +0300
+
 automoc (1.0~version-0.9.88-4) unstable; urgency=low
 
   * Drop 01_patch_out_qprocess_bug561203.diff patch. It was buggy and didn't
