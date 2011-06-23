@@ -1,10 +1,10 @@
-automoc (1.0~version-0.9.88-5) UNRELEASED; urgency=low
+automoc (1.0~version-0.9.88-5) unstable; urgency=low
 
   * Add Vcs fields to debian/control.
   * Replace (C) with © in debian/copyright.
   * Bump Standards-Version to 3.9.2: no changes needed.
 
- -- Modestas Vainius <modax@debian.org>  Mon, 26 Jul 2010 23:33:18 +0300
+ -- Modestas Vainius <modax@debian.org>  Thu, 23 Jun 2011 11:51:41 +0300
 
 automoc (1.0~version-0.9.88-4) unstable; urgency=low
 
