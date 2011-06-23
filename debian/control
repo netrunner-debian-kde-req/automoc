@@ -4,7 +4,7 @@ Priority: extra
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Sune Vuorela <debian@pusling.com>, Fathi Boudra <fabo@debian.org>, Modestas Vainius <modax@debian.org>
 Build-Depends: debhelper (>= 7.3), libqt4-dev, cmake
-Standards-Version: 3.8.3
+Standards-Version: 3.9.2
 Homepage: http://cia.vc/stats/project/kde/automoc
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-req/automoc.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-req/automoc.git
