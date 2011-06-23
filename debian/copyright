@@ -3,14 +3,14 @@ Sat, 26 Apr 2008 23:21:42 +0200.
 
 It was downloaded from <svn://anonsvn.kde.org>
 
-Upstream Authors: 
+Upstream Authors:
 
 	Mathias Kretz <kretz@kde.org>
 	Alexander Neundorff <neundorff@kde.org>
 
-Copyright: 
+Copyright:
 
-	Copyright (c) 2007 Mathias Kretz <kretz@kde.org>
+	Copyright © 2007 Mathias Kretz <kretz@kde.org>
 
 License:
 
@@ -38,5 +38,5 @@ License:
 On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL-2'.
 
-The Debian packaging is (C) 2008, Sune Vuorela <debian@pusling.com> and
+The Debian packaging is © 2008, Sune Vuorela <debian@pusling.com> and
 is licensed under the GPL, see above.

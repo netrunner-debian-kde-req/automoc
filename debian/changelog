@@ -1,6 +1,7 @@
 automoc (1.0~version-0.9.88-5) UNRELEASED; urgency=low
 
   * Add Vcs fields to debian/control.
+  * Replace (C) with © in debian/copyright.
 
  -- Modestas Vainius <modax@debian.org>  Mon, 26 Jul 2010 23:33:18 +0300
 
